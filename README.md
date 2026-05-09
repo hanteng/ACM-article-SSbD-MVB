@@ -29,7 +29,7 @@ quarto use template quarto-journals/acm
 * **Prompt:** It will ask if you want to create a subdirectory. Type `Y` and give it a name like `acm-abstract`.
 
 
-### **Step 3: Initialize Git in your Project**
+### **Step 3a: Initialize Git in your Project**
 
 Follow these steps to connect it to a new GitHub repository.
 
@@ -44,9 +44,7 @@ git commit -m "Initial commit: ACM Extended Abstract setup"
 
 ```
 
-
-
-### **Step 2: Create a Repository on GitHub**
+### **Step 3b: Create a Repository on GitHub**
 
 1. Go to [github.com](https://github.com) and log in.
 2. Click the **+** icon in the top right and select **New repository**.
@@ -54,14 +52,14 @@ git commit -m "Initial commit: ACM Extended Abstract setup"
 4. **Important:** Leave "Initialize this repository with..." (README, .gitignore, license) **unchecked**. Since you already have code locally, you want a blank slate.
 5. Click **Create repository**.
 
-### **Step 3: Connect Positron to GitHub**
+### **Step 3b: Connect Positron to GitHub**
 
 GitHub will show you a page with "Quick setup." Look for the section titled **"…or push an existing repository from the command line"**.
 
 Copy the three lines provided there and paste them into your **Positron Terminal**:
 
 ```bash
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git remote add origin https://github.com/hanteng/ACM-article-SSbD-MVB.git
 git branch -M main
 git push -u origin main
 
@@ -81,8 +79,6 @@ Once that connection is made, you don't need the terminal for daily work.
 * Type a message in the box (e.g., "Updated method section").
 * Click **Commit**.
 * Click **Sync Changes** (or the "Cloud" icon) at the bottom left to push to GitHub.
-
-
 
 ### **Pro-Tip for arXiv/SSRN**
 
