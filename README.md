@@ -95,6 +95,4 @@ Since you are working with Quarto, I recommend adding a `.gitignore` file to you
 
 This keeps your GitHub repository clean, showing only your source `.qmd` and your final `.pdf` or `.docx`.
 
-```
-
-```
+### **Step 5: Test Generateing .pdf and .docx **
