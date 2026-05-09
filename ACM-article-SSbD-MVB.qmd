@@ -91,20 +91,22 @@ acm-metadata:
   #   caption: figure caption
   #   description: teaser description    
 abstract: |
-  A clear and well-documented \LaTeX\ document is presented as an
-  article formatted for publication by ACM in a conference proceedings
-  or journal publication. Based on the "acmart" document class, this
-  article presents and explains many of the common variations, as well
-  as many of the formatting elements an author may use in the
-  preparation of the documentation of their work.
+  Adopting a socio-technical transition perspective, the study investigates how niche innovations in regulatory technology (RegTech) and financial technology (FinTech) can facilitate regime-level sustainability transitions. The research focuses on the global value chain hubs of Taiwan and Malaysia, utilizing a mixed-method approach that combines scientometrics, innovation ecosystem design workshops, and technology roadmapping (TRM). The objective is to design Minimum Viable Business Models (MVBMs) that enable compliance with the European Union's Carbon Border Adjustment Mechanism (CBAM) while fostering "Safe and Sustainable by Design" (SSbD) ecosystem governance. Expected outcomes include stakeholder-vetted innovation canvases that theoretically contribute to the dynamics of niche-regime interactions within a geoeconomic context. **(A version of this document has been submitted to and accepted for the NITIM Doctoral School 2026, held in conjunction with the 32nd IEEE ICE/ITMC Conference in Porto, Portugal)**.
 
 ---
+
+::: {.callout-note}
+> **Note**. This document serves as the original scaffolding utilized for the NiTiM 2026 submission. To ensure absolute transparency regarding the "Substantial Contribution" and "Authorship" standards mandated by the [Ministry of Education (教育部臺教高（五）字第 1060059470 號函)](https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001766), the full Version History and Edit Logs are available for forensic review. 
+>
+> **Copyright Notice**: This document can be used under the Open Content License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0). 
+>
+:::
 
 ## Introduction 
 
 Following and participating in the green and digital transformation standards (e.g., ITU-T L.1470 and L.1480 and IEEE 7000 value-based engineering standards for AI) has been the forefront in guiding the best practices in the green and digital transformation of the ICT sector in specific and very likely leading other sectors in general. 
 
-Nonetheless, whether and how the capital- and energy-intensive AI and Semiconductor sectors can lead to achieve science-based targets (SBTs) in line with a 1.5°C scenario remains a major socio-technical system challenge, including the ways in which the AI and Semiconductor sectors, mostly dominated by multinational corporations (MNCs), can successfully meet the emerging demands of the Carbon Border Adjustment Mechanism (CBAM) by the European Union.
+Nonetheless, whether and how the capital- and energy-intensive AI and Semiconductor sectors can lead to achieve science-based targets initiative (SBTi) in line with a 1.5°C scenario remains a major socio-technical system challenge, including the ways in which the AI and Semiconductor sectors, mostly dominated by multinational corporations (MNCs), can successfully meet the emerging demands of the Carbon Border Adjustment Mechanism (CBAM) by the European Union.
 
 This study adopts a socio-technical transition perspective to understand how niche innovations in regulatory and financial technologies can support regime-level sustainability transitions in AI and semiconductor ecosystems.
 
@@ -129,3 +131,19 @@ By structuring and connecting both quantitative and qualitative data onto ecosys
 The intended main policy- and market-impact of the study is to generate scientometrics-based and stakeholder-vetted minimum viable business models that support the semiconductor and AI can build and deploy technologies and standards that are "safe and sustainable by design" (SSbD). 
 
 The project will also conceptually contribute to the policy frameworks on the methods of doing "safe and sustainable by design" (SSbD) innovations and innovation management. Theoretically, the outcomes of the project should contribute to the discussions of the socio-technical transitions, especially in the inter-relations and system dynamics of the “regimes” and “niches,” with an expected additional geopolitical and geoeconomic dimensions with evidence collected from Taiwanese and Malaysian hubs.
+
+## Data Availability & Forensic Provenance {.appendix}
+
+To support academic integrity and transparency regarding substantial contribution standards, the version history and developmental scaffolding of this research are maintained via the following digital sources:
+
+### Other Platforms
+
+- **Forensic Primary Source:** [Google Doc Archive: https://docs.google.com/document/d/1rRcGkJoz8rATGA5Iw6UtrAn5wvJoAScLcnNzaYQWDX8](https://docs.google.com/document/d/1rRcGkJoz8rATGA5Iw6UtrAn5wvJoAScLcnNzaYQWDX8) (Maintained for institutional audit and forensic review of authorship). 
+- **Collaborative Repository:** [Hanteng/ACM-article-SSbD-MVB: https://github.com/hanteng/ACM-article-SSbD-MVB](https://github.com/hanteng/ACM-article-SSbD-MVB) (Source files and templates).
+- **Collaborative Zotero User Group:** [IRDS Group: https://www.zotero.org/groups/6538721/irds](https://www.zotero.org/groups/6538721/irds) (References).
+
+### An Invitation to the Research Community
+Under the spirit of **Open Research**[^Citation], I invite doctoral candidates and grant writers to utilize or adapt this document's structure and theoretical scaffolding for their own projects. This material is released[^ToU] as a pedagogical resource to assist in navigating the complexities of socio-technical architectural writing.
+
+[^ToU]: **Terms of Use:** You are welcome to modify and build upon this work under the **CC BY-NC-SA 4.0** license.  Please attribute the original structure to the author while clearly distinguishing your own contributions and modifications.
+[^Citation]: **Attribution:** Please cite this work as: Please cite this work as: Han-Teng Liao. 2026. *Orchestrating the AI and Semiconductor Green and Digital Transformation: An Ecosystem Stakeholder Approach to Build Pro-Standard Business Models*. Unpublished Working Paper. 
